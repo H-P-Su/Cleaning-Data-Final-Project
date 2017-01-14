@@ -21,6 +21,11 @@ This codebook describes the variables, the data, and any transformations or work
   - The average of all the means and standard deviations for a given subject/activity combination are calculated
   - data are stored in the file, "average_data.csv"
 
+As previously described ([ref](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)), the units are ass followed:
+
+- The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2). 
+- The gyroscope units are rad/seg. 
+
 ##### Column names in all_data.csv
 - subject: number assigned to subjects 1-30
 - activity: name of activity performed during the measurement
