@@ -23,4 +23,4 @@ As described in the instructions, there is one script in this repo called <b><i>
 3. Assigns subject and activity to each measurement, mapping activity names.
 4. Combines training and test sets to a single data frame.
 5, Renames the variable names.  Saves data as <b><i>all_data.csv</i></b>
-6, Create a second data set with averages of each variable for each activity for each subject named, <b><i>average_data.csv</i></b>
+6, Create a second data set with averages of each variable for each activity for each subject.  This data is saved in csv and text files named, <b><i>average_data.csv</i></b> and <b><i>average_data.txt</i></b>, respectively.

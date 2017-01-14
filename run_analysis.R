@@ -132,4 +132,4 @@ average_data[,cols] <- apply(average_data[,cols], 2, function(x) as.numeric(as.c
                   
 # write the averages back out to file
 write.csv(average_data, file="averaged_data.csv" )
-
+write.table(average_data, file="averaged_data.txt", row.name=FALSE)

@@ -19,7 +19,7 @@ This codebook describes the variables, the data, and any transformations or work
 5) Create a second data set with averages of each variable for each activity for each subject.
   - Two for loops are used to iterate over all subjects and activities
   - The average of all the means and standard deviations for a given subject/activity combination are calculated
-  - data are stored in the file, "average_data.csv"
+  - data are stored by format in the files, "average_data.csv" or "average_data.txt"
 
 As previously described ([ref](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)), the units are ass followed:
 
